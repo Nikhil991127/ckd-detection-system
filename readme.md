@@ -4,13 +4,13 @@ This project is a machine learning-based system** designed to predict Chronic Ki
 It features a Streamlit web application where users can input medical parameters and receive real-time predictions.
 
 <h2>Project Structure</h2>
-```
-├── CKD_Model_Training_Updated.ipynb   # Jupyter Notebook for model training
-├── kidney_disease.csv                 # Dataset used for training
-├── ckd_model.pkl                      # Trained Random Forest model
-├── ckd_predictor_app.py               # Streamlit web application
-└── README.md                          # Project documentation
-```
+
+CKD_Model_Training_Updated.ipynb   # Jupyter Notebook for model training
+kidney_disease.csv                 # Dataset used for training
+ckd_model.pkl                      # Trained Random Forest model
+ckd_predictor_app.py               # Streamlit web application
+ README.md                          # Project documentation
+
 
 <h2>Features</h2>
 * Uses Random Forest Classifier for CKD detection.
