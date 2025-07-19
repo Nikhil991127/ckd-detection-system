@@ -2,7 +2,7 @@
 
 This project is a machine learning-based system designed to predict Chronic Kidney Disease (CKD) using patient health data. <br>
 It features a Streamlit web application where users can input medical parameters and receive real-time predictions.
-
+---
 <h2>Project Structure</h2>
 
 CKD_Model_Training_Updated.ipynb'             '# Jupyter Notebook for model training<br>
@@ -11,13 +11,13 @@ ckd_model.pkl'                                '# Trained Random Forest model<br>
 ckd_predictor_app.py'                         '# Streamlit web application<br>
 README.md'                                     '# Project documentation<br>
 
-
+---
 <h2>Features</h2>
 * Uses Random Forest Classifier for CKD detection.<br>
 * Web-based interface built with Streamlit.<br>
 * Accepts user inputs for medical parameters (e.g., blood pressure, hemoglobin, sugar levels).<br>
 * Provides instant CKD prediction results.<br>
-
+---
 <h2>Tech Stack</h2>
 
 * Python 3<br>
@@ -25,7 +25,7 @@ README.md'                                     '# Project documentation<br>
 * Streamlit<br>
 * Pickle (for model serialization)<br>
 
-
+---
 <h2>Dataset</h2>
 
 The dataset `kidney_disease.csv` contains patient information including:
@@ -86,6 +86,3 @@ streamlit run ckd_predictor_app.py
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
-
-### Would you like me to create a **`requirements.txt`** file (listing all dependencies from `ckd_predictor_app.py` and your notebook) so you can directly upload it to GitHub?
