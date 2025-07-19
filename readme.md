@@ -1,6 +1,6 @@
 <h1>Chronic Kidney Disease (CKD) Detection</h1>
 
-This project is a machine learning-based system** designed to predict Chronic Kidney Disease (CKD) using patient health data.
+This project is a machine learning-based system** designed to predict Chronic Kidney Disease (CKD) using patient health data. 
 It features a Streamlit web application where users can input medical parameters and receive real-time predictions.
 
 <h2>Project Structure</h2>
