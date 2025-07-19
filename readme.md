@@ -1,30 +1,30 @@
 <h1>Chronic Kidney Disease (CKD) Detection</h1>
 
-This project is a machine learning-based system** designed to predict Chronic Kidney Disease (CKD) using patient health data. 
+This project is a machine learning-based system designed to predict Chronic Kidney Disease (CKD) using patient health data. <br>
 It features a Streamlit web application where users can input medical parameters and receive real-time predictions.
 
 <h2>Project Structure</h2>
 
-CKD_Model_Training_Updated.ipynb   # Jupyter Notebook for model training
-kidney_disease.csv                 # Dataset used for training
-ckd_model.pkl                      # Trained Random Forest model
-ckd_predictor_app.py               # Streamlit web application
- README.md                          # Project documentation
+CKD_Model_Training_Updated.ipynb   # Jupyter Notebook for model training<br>
+kidney_disease.csv                 # Dataset used for training<br>
+ckd_model.pkl                      # Trained Random Forest model<br>
+ckd_predictor_app.py               # Streamlit web application<br>
+README.md                          # Project documentation<br>
 
 
 <h2>Features</h2>
-* Uses Random Forest Classifier for CKD detection.
-* Web-based interface built with Streamlit.
-* Accepts user inputs for medical parameters (e.g., blood pressure, hemoglobin, sugar levels).
-* Provides instant CKD prediction results.
+* Uses Random Forest Classifier for CKD detection.<br>
+* Web-based interface built with Streamlit.<br>
+* Accepts user inputs for medical parameters (e.g., blood pressure, hemoglobin, sugar levels).<br>
+* Provides instant CKD prediction results.<br>
 -
 
 <h2>Tech Stack</h2>
 
-* Python 3
-* Pandas, NumPy, Scikit-learn
-* Streamlit
-* Pickle (for model serialization)
+* Python 3<br>
+* Pandas, NumPy, Scikit-learn<br>
+* Streamlit<br>
+* Pickle (for model serialization)<br>
 
 
 <h2>Dataset</h2>
