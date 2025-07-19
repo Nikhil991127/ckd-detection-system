@@ -5,11 +5,11 @@ It features a Streamlit web application where users can input medical parameters
 
 <h2>Project Structure</h2>
 
-CKD_Model_Training_Updated.ipynb               # Jupyter Notebook for model training<br>
-kidney_disease.csv                             # Dataset used for training<br>
-ckd_model.pkl                                  # Trained Random Forest model<br>
-ckd_predictor_app.py                           # Streamlit web application<br>
-README.md                                      # Project documentation<br>
+CKD_Model_Training_Updated.ipynb'             '# Jupyter Notebook for model training<br>
+kidney_disease.csv'                           '# Dataset used for training<br>
+ckd_model.pkl'                                '# Trained Random Forest model<br>
+ckd_predictor_app.py'                         '# Streamlit web application<br>
+README.md'                                     '# Project documentation<br>
 
 
 <h2>Features</h2>
